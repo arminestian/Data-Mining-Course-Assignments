@@ -39,11 +39,11 @@ Welcome to my Data Mining course assignments repository. This repository contain
 
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
 - Git & GitHub
-   ```
+
 ## 👤 Author
 
 Armin Servati – Data Mining Course Student  
-Course Instructor: Prof. Alireza Sokhandan 
+Course Instructor: Prof. Alireza Sokhandan  
 University: University of Tabriz
 
 ## 📄 License
