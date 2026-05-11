@@ -23,7 +23,6 @@ This repository includes practical tasks and projects completed during the cours
 ├── Assignment1/          # Shopping Basket Analysis (Association Rules)
 ├── Assignment2/          # Abalone Age Prediction (KNN)
 ├── data/                 # Dataset files (if applicable)
-├── reports/              # Generated reports, notebooks, and outputs
 └── README.md
 ```
 
@@ -90,7 +89,6 @@ Number of rings (used as an indicator of age)
   - numpy
   - scikit-learn
   - matplotlib
-  - seaborn
 - **Git**
 - **GitHub**
 
