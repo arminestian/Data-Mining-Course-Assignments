@@ -1,4 +1,3 @@
-```markdown
 # Data Mining Course Assignments
 
 Welcome to my repository for **Data Mining course assignments**.  
@@ -109,4 +108,3 @@ Data Mining Course Student
 ## 📄 License
 
 This repository is intended for **educational purposes only**.
-```
